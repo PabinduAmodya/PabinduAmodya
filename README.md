@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="220" />
+</p>
 
-<!--
-**PabinduAmodya/PabinduAmodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pabindu Amodya</h1>
+<h3 align="center">🎓 Passionate IT Student | 💡 Forever Learning | 💻 Coding Forward Always</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pabinduamodya&label=Profile%20views&color=0e75b6&style=flat" alt="pabinduamodya" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 About Me
+<table>
+  <tr>
+    <td>
+
+- 🔭 I’m currently working on **Spring Boot Project**  
+- 📚 Pursuing **BSc (Hons) in Computer Science** at *NSBM Green University*  
+- 🌱 Currently diving deeper into **Spring Boot** and backend development  
+- 📫 Reach me at **pabinduamodya@gmail.com**
+
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250"/>
+    </td>
+  </tr>
+</table>
+
+---
+### 📊 GitHub Stats & Activity
+
+[![PabinduAmodya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PabinduAmodya&theme=tokyonight)](https://github.com/PabinduAmodya)
+
+| ![PabinduAmodya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabinduAmodya&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabinduAmodya&theme=tokyonight) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabinduAmodya&theme=tokyonight&layout=compact) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=PabinduAmodya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/pabindu manawadu" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,express,nodejs,react,js,tailwind,bootstrap,androidstudio,flutter,firebase,figma,git,postman,c" />
+</p>
