@@ -32,10 +32,11 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/pabindu manawadu" target="blank">
-    <img align="center" src="https://www.linkedin.com/in/pabindu-manawadu-421044308/" alt="LinkedIn" height="30" />
+  <a href="https://www.linkedin.com/in/pabindu-manawadu-421044308/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
   </a>
 </p>
+
 
 ---
 
