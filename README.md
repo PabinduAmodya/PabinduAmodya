@@ -29,15 +29,6 @@
 </table>
 
 ---
-### 📊 GitHub Stats & Activity
-
-[![PabinduAmodya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PabinduAmodya&theme=tokyonight)](https://github.com/PabinduAmodya)
-
-| ![PabinduAmodya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabinduAmodya&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabinduAmodya&theme=tokyonight) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabinduAmodya&theme=tokyonight&layout=compact) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=PabinduAmodya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
----
 
 ### 🤝 Connect with Me
 <p align="left">
