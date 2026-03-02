@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Spring Boot Project**  
 - 📚 Pursuing **BSc (Hons) in Computer Science** at *NSBM Green University*  
-- 🌱 Currently diving deeper into **Spring Boot** and backend development  
+
 - 📫 Reach me at **pabinduamodya@gmail.com**
 
     </td>
