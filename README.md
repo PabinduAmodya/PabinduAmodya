@@ -68,18 +68,7 @@ status:   Open to collaborations ✅
 
 ---
 
-## 🚀 Featured Project
 
-<div align="center">
-
-[![Stock Management System](https://github-readme-stats.vercel.app/api/pin/?username=PabinduAmodya&repo=Stock-Managment-System&theme=tokyonight&border_color=e94560&title_color=e94560&icon_color=a8b2d8)](https://github.com/PabinduAmodya/Stock-Managment-System)
-
-</div>
-
-> **📦 Stock Management System** — A full-stack inventory & POS application built with **Spring Boot 3** + **React 18 (TypeScript)** + **MySQL**.
-> Features JWT auth, role-based access control (Admin / Manager / Cashier), automated stock tracking, GRN workflows, real-time dashboard, and CSV reporting.
-
----
 
 ## 📊 GitHub Stats
 
